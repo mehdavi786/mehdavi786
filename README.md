@@ -5,22 +5,19 @@
 <img align="right" alt="Coding" width="300" src="https://techcrunch.com/wp-content/uploads/2015/08/safe_image.gif?" />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rayan-ali1083&label=Profile%20views&color=0e75b6&style=flat" alt="rayan-ali1083" /> </p>
 
-- 🌱 I’m currently learning **Data Science, Machine Learning and AI**
+- 🌱 I’m currently learning **Machine Learning and Backend Development**
 
 - 👨‍💻 All of my projects are available at (https://github.com/mehdavi786)
 
-- 💬 Ask me about **Python, Data Science, Machine Learning, SQL**
+- 💬 Ask me about **Python and SQL**
 
-- 📫 How to reach me **rayanali1083@gmail.com**
-
-- 📄 Know about my experiences [Link to Resume](https://drive.google.com/file/d/1uFy8uEQ9odK_d_3SQcRx5lCgvERZiEo7/view?usp=sharing)
+- 📫 How to reach me **hasavi110@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/rayanali1083" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rayanali1083" height="30" width="40" /></a>
-<a href="https://kaggle.com/muhammadrayanali" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="muhammadrayanali" height="30" width="40" /></a>
-<a href="https://fb.com/rayan ali" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rayan ali" height="30" width="40" /></a>
-<a href="https://instagram.com/rayanali900" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rayanali900" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/hasan-mehdavi-46b805275/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rayanali1083" height="30" width="40" /></a>
+<a href="https://www.facebook.com/profile.php?id=100026222212941" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rayan ali" height="30" width="40" /></a>
+<a href="https://instagram.com/hasanmehdavi786/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rayanali900" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
