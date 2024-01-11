@@ -3,7 +3,7 @@
     <img src="https://res.cloudinary.com/superfolio/image/upload/v1620689979/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f63362f33332f63322f63363333633230656465383266306530636564376435373064626533613166332e676966_yjuh2s.gif" alt="Banner">
 </div>
 <img align="right" alt="Coding" width="300" src="https://techcrunch.com/wp-content/uploads/2015/08/safe_image.gif?" />
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rayan-ali1083&label=Profile%20views&color=0e75b6&style=flat" alt="rayan-ali1083" /> </p>
+
 
 - 🌱 I’m currently learning **Machine Learning and Backend Development**
 
