@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Hasan Mehdavi</h1>
 <div align="center">
-    <img src="https://res.cloudinary.com/superfolio/image/upload/v1620689979/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f63362f33332f63322f63363333633230656465383266306530636564376435373064626533613166332e676966_yjuh2s.gif" alt="Banner">
+    <img src="https://i.gifer.com/JXA0.gif" alt="Banner">
 </div>
 <img align="right" alt="Coding" width="300" src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e474at2lug1yuov2xccle40ajab4fb6ojtnbls6a0bs&ep=v1_gifs_related&rid=giphy.gif&ct=g" />
 
