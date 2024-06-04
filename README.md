@@ -16,7 +16,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/hasan-mehdavi-46b805275/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hasanmehdavi" height="30" width="40" /></a>
-<a href="https://www.kaggle.com/hasanmehdavi" target="blank"><img align="center" src="https://www.kaggle.com/static/images/site-logo.svg" alt="hasanmehdavi" height="30" width="40" /></a>
+<a href="https://www.kaggle.com/hasanmehdavi" target="blank"><img align="center" src="https://th.bing.com/th/id/R.f99d00d5ad7a8ba83fba26029db97c9a?rik=3xw2UMfrGqGoUA&pid=ImgRaw&r=0" alt="hasanmehdavi" height="30" width="40" /></a>
 <a href="https://www.facebook.com/profile.php?id=100026222212941" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="hasan mehdavi" height="30" width="40" /></a>
 <a href="https://instagram.com/hasanmehdavi786/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hasanmehdavi786" height="30" width="40" /></a>
 </p>
