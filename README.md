@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at (https://github.com/mehdavi786)
 
-- 💬 Ask me about **Python and SQL**
+- 💬 Ask me about **Python, Machine Learning and SQL**
 
 - 📫 How to reach me **hasavi110@gmail.com**
 
